@@ -45,4 +45,24 @@ Traduisible, ( il faut aussi se décoloniser du language anglais pour penser) pa
 
 ## Economie préludienne et gouvernance organique
 
+Prenons le lieu du Village d'Art Préludien comme bac à sable intelectuel pour imaginer une économie respectant les valeurs d'un lieu et une invitation à la création dans une gestion autonome et viable financierement pour la preservation et évoluton du lieu et de ses intervenants et créateur su place.
+L'idée tiens en une phrase :
+Des créateurs, sur le lieu même, le village d'art Préludien ici, crée des oeuvres ( sculptures, spectacles, films etc .. ). Ces oeuvres sont considérées comme la "preuve de Partcipation" mentionné ci-dessus. La preuve d'être individu est faite par la nécessité de cree sur le lieu assurant également à "mettre sa peau en jeu" physiquement sur le lieu. Ceci va constitué une légitimité de gouvernance sur le lieu à la mesure de sa création.
+Chaque oeuvre crré est associé, identifié à une représentation numérique consultable et vérifibale par tous.  ( NFT pour les initiés).
+Les ventes des oeuvres ou revenues des oeuvres crrées, automatiquement associé a ces NFT permet une ventialation suivante: 
+la "gouvernance du lieu" décide de la part des fonds qui reviennet à l'artiste et l'autre part revient à la tresoririe du lieu.
+
+La "gouvernance du lieu" est composé de tous les créateurs qui ont creer sur le lieu. Leur poids dans cette gouvernance depends de leur implication constaté par la créations d'oeuvres ( NFT ). 
+Des systemes de votes quadratique pour les décisions sur le lieu peuvent etre envisagées.
+
+
+Le fond commun cree est ensuite alouée selon ce que decide la gouvernance organique :
+- restauration du lieu
+- financement de nouveaux projets
+- un revenues universelle pour tous les créateurs sur place etc ...
+
+
+Comme la création d'un oeuvre génere un droits sur le lieu, on peut imaginer que 1 nouvelle oeuve doit etre validée par l’assemblée la gouvernance actuelle à un instant T, en mode réunion à "amphithéâtre des Trois Gaules", avant d’être batiser en 1 NFT lors d'une cérémonie au "Sanctuaire fédéral des Trois Gaules" ( chamanique, epicurienne, stoicienne ou colloque érudit, selon l'esprit du lieu ...).
+
+
 
