@@ -63,7 +63,7 @@ Une économie respectant les valeurs d'un lieu et une invitation à la création
 
 Une économie rétribuant également tous les intervenants et créateurs sur place.
 
-Des créateurs, sur le lieu même, le village d'art Préludien ici, créent, effectuent ou projettent des œuvres ( sculptures, spectacles, films etc .. ). Ces œuvres sont considérées comme la "preuve de Partcipation" mentionnée ci-dessus. La preuve d'être un individu est faite par la nécessité de créer sur le lieu assurant également à "mettre sa peau en jeu" physiquement. Ceci va constituer une légitimité de gouvernance sur le lieu à la mesure de sa création et participation.
+Des créateurs, sur le lieu même, le village d'art Préludien ici, créent, effectuent ou projettent des œuvres ( sculptures, spectacles, films etc .. ). Ces œuvres sont considérées comme la "preuve de Participation" mentionnée ci-dessus. La preuve d'être un individu est faite par la nécessité de créer sur le lieu assurant également à "mettre sa peau en jeu" physiquement. Ceci va constituer une légitimité de gouvernance sur le lieu à la mesure de sa création et participation.
 Chaque œuvre créée est associée, identifiée à une représentation numérique consultable et vérifiable par tous.  ( NFT ).
 Des ventes des oeuvres ou revenues des oeuvres, spectacles créées sont automatiquement associé à ces NFT permet une ventilation suivante:
 Un pourcentage est reversé dans une trésorerie du lieu 
@@ -74,7 +74,7 @@ Les ventes successives des œuvres dans le temps continue d'abonder l'artiste pr
 La "gouvernance du lieu" est composée de tous les créateurs qui ont créé sur le lieu. Leur poids dans cette gouvernance dépend de leur implication constatée par la création d'œuvres ( NFT ). 
 
 Des systèmes de votes quadratiques pour les décisions sur le lieu peuvent être envisagées permettant d'exprimer l'intensité de ses préférences.
-Des systèmes de financement quadratiques des projets, [explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philanthropique. Financement maximisant l'intérêt de la majorité en se callant automatiquement et venant abonder sur les petits dons des participants ou amis du lieu.
+Des systèmes de financement quadratiques des projets, [explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philanthropique. Financements des projets maximisant l'intérêt de la majorité exprimé, en se callant automatiquement et venant abonder les petits dons des participants ou amis du lieu.
 
 
 Le fond commun créé, trésorerie des flibustiers, est ensuite allouée selon ce que décide la gouvernance organique de ceux qui ont creer :
@@ -91,5 +91,5 @@ Bien sûr au centre du village, il y aura un Klèrôtèrion pour les votes faisa
 
 [Le Klèrôtèrion, machine emblématique de la démocratie](https://www.youtube.com/watch?v=bWV8MZ7N90o)
 
-Les "pinakia" des citoyens du lieu  en wallet clef public/privée, utile dans un Klèrôtèrion mi-numérique, mi-physique, seront à imaginer...
+Les "pinakia" des citoyens du lieu en wallet clef public/privée, utile dans un Klèrôtèrion mi-numérique, mi-physique, seront à imaginer...
 
