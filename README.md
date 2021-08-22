@@ -26,8 +26,9 @@ Zone flibustière. Car les flibusiters étaient tolérés par l'état. La voie d
 
 La village d'Art Préludien est un pretexte de reflexion. 
 Comme le dit Laurent Danchin, il y a beacoup de site d'art brut equivalent et il esperait que les futurs organisation en réseaux, réseau organique et non numérique, viennent solutionner cela [via des fonds de dotation: 33 minutes de l'interview](https://youtu.be/TonwphxSwak?t=2026) "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"  ou encore plus loin "mettre en réseau des plus petites unités" 47 min à 48 min. La lignée des inspirations et références mentionné dans l'interview sont :
-- Small Is Beautiful Ernst Friedrich Schumacher.
-- Unto This Last John Ruskin.
+- [Lettres à un jeune poète, Rainer Maria Rilke](https://fr.wikipedia.org/wiki/Lettres_%C3%A0_un_jeune_po%C3%A8te)
+- [Small Is Beautiful, Ernst Friedrich Schumacher](https://fr.wikipedia.org/wiki/Small_is_beautiful)
+- [Unto This Last, John Ruskin](https://fr.wikipedia.org/wiki/Unto_This_Last)
 
 Si vous êtes sensible à cette interview de [Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"](https://youtu.be/TonwphxSwak) dont je vous invite à regarder en entier, continuons le fil en passant par un détour sur les nouveaux résaux et leur balbutiement de gouvernance.
 
