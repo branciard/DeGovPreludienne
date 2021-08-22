@@ -64,5 +64,14 @@ Le fond commun cree est ensuite alouée selon ce que decide la gouvernance organ
 
 Comme la création d'un oeuvre génere un droits sur le lieu, on peut imaginer que 1 nouvelle oeuve doit etre validée par l’assemblée la gouvernance actuelle à un instant T, en mode réunion à "amphithéâtre des Trois Gaules", avant d’être batiser en 1 NFT lors d'une cérémonie au "Sanctuaire fédéral des Trois Gaules" ( chamanique, epicurienne, stoicienne ou colloque érudit, selon l'esprit du lieu ...).
 
+Bien sur au centre du village, il y aura un Klèrôtèrion pour les votes faisant intervenir un sous groupe alétoire choisi:
+
+https://www.youtube.com/watch?v=bWV8MZ7N90o
+
+https://lejournal.cnrs.fr/videos/la-machine-qui-tirait-au-sort-les-citoyens-dathenes
+
+Les "pinakia" des citoyens du lieu  en wallet clef public/privée, utile dans un Klèrôtèrion mi-numérique, mi-physique, seront à imaginer...
+
+
 
 
