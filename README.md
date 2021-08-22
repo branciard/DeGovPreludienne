@@ -75,7 +75,7 @@ Les ventes succsives des oeuvres dans le temps continue d'abonder l'artste premi
 La "gouvernance du lieu" est composée de tous les créateurs qui ont créé sur le lieu. Leur poids dans cette gouvernance dépend de leur implication constatée par la création d'œuvres ( NFT ). 
 
 Des systèmes de votes quadratiques pour les décisions sur le lieu peuvent être envisagées permettant d'exprimer l'intensité de ses préférences.
-Des systèmes de financement quadratiques des projets, explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philantropique. Financement maximisant l'interet de la majorité en se callant automatiquement et venant abonder sur les petis dons des participants ou amis du lieu.
+Des systèmes de financement quadratiques des projets, [explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philantropique. Financement maximisant l'interet de la majorité en se callant automatiquement et venant abonder sur les petis dons des participants ou amis du lieu.
 
 
 Le fond commun créé, tresorerie des flibustiers, est ensuite allouée selon ce que décide la gouvernance organique de ceux qui ont creer :
