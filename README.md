@@ -76,14 +76,15 @@ Des systèmes de votes quadratiques pour les décisions sur le lieu peuvent êtr
 Des systèmes de financement quadratiques des projets, explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philantropique. Financement maximisant l'interet de la majorité en se callant automatiquement et venant abonder sur les petis dons des participants ou amis du lieu.
 
 
-Le fond commun créé est ensuite allouée selon ce que décide la gouvernance organique :
-- restauration du lieu
+Le fond commun créé, tresorerie des flibustiers, est ensuite allouée selon ce que décide la gouvernance organique de ceux qui ont creer :
+- Restauration du lieu
 - financement de nouveaux projets
-- salaire de base ou un revenu universel pour tous les créateurs sur place etc ...
+- mini salaire de base ou un revenu universel pour tous les créateurs sur place etc ...
 
 
-Comme la création d’une oeuvre génère un droits sur le lieu, on peut imaginer que 1 nouvelle oeuvre doit être validée par l’assemblée la gouvernance actuelle à un instant T, en mode réunion à [amphithéâtre des Trois Gaules](https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_des_Trois_Gaules), avant d’être baptisé en 1 NFT lors d'une cérémonie au ["Sanctuaire fédéral des Trois Gaules"](https://fr.wikipedia.org/wiki/Sanctuaire_f%C3%A9d%C3%A9ral_des_Trois_Gaules). Cérémonie chamanique, epicurienne, stoïcienne ou colloque érudit au choix selon l'esprit du lieu : [GENIUS LOCI](https://fr.wikipedia.org/wiki/Genius_loci).
+Comme la création d’une oeuvre génère un droits sur le lieu, on peut imaginer qu'une nouvelle oeuvre doit être validée par l’assemblée la gouvernance actuelle à un instant T. Cette assemblée peut se faire periodiquement tel les assemblées antique à l'[amphithéâtre des Trois Gaules](https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_des_Trois_Gaules). Apres cette assemblée, s'en suit une cérémonie tel les cérémonies au ["Sanctuaire fédéral des Trois Gaules"], ou toutes les oeuvres devront être batisées (en 1 NFT). Cérémonie chamanique, epicurienne, stoïcienne ou colloque érudit etc ... au choix selon l'esprit du lieu : [GENIUS LOCI](https://fr.wikipedia.org/wiki/Genius_loci).
 
+## Klèrôtèrion
 Bien sûr au centre du village, il y aura un Klèrôtèrion pour les votes faisant intervenir un sous groupe aléatoire choisi:
 
 https://www.youtube.com/watch?v=bWV8MZ7N90o
