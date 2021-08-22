@@ -1,4 +1,3 @@
-
 # Economie Preludienne
 Prélude d'une économie organique. 
 
@@ -17,7 +16,7 @@ Paradoxalement, il a fallu une vente aux enchères pour permettre cette sauvegar
 
 Des élèves d'école d'art et des amis se mobilisent encore pour sauver le patrimoine sur place : [Chantiers ! Chomo](https://www.youtube.com/watch?v=WRH941lT8HQ)
 
-Quel aurait pu être une économie préludienne de ce village Préludien qui aurait permis une nouvlle vie, entretien et une continuité de création sur ce lieu ?
+Quel aurait pu être une économie préludienne de ce village Préludien qui aurait permis une nouvelle vie, entretien et une continuité de création sur ce lieu ?
 
 Une ZAC, une Zone à Créer. ZAC, c'est une ZAD avec une vision ?
 
@@ -36,17 +35,17 @@ Si vous êtes sensible à cette interview de [Laurent Danchin "Le besoin de cré
 
 ## DeGov, DeGen ?
 
-Les nouveaux reseaux décentralisés sont en effervescence sur la notion de gouvernance. Comment prendre une décision sur un réseau décentralisé par nature ?
+Les nouveaux réseaux décentralisés sont en effervescence sur la notion de gouvernance. Comment prendre une décision sur un réseau décentralisé par nature ?
 
 DeGov : Decentralized Governance traduisible Gouvernance décentralisée.
 
 DeGen est une locution utilisée dans la mouvance Defi ( Decentralized finance, Finance décentralisée ) pour souligner le caractère expérimental voire dantesque de ce qui arrive. DeGen pour Degenerate, dégénéré.
 
-La gouvernance des nouveaux réseaux technique cela reste du poids d'un jeton lié à une masse monaitaire donc achetable. J'en alerte le fait [min 38 du replay](https://www.crowdcast.io/e/deux-heures-Polkadot) dans une présentation fait au [1er polkadot-francophonie meetup](https://medium.com/polkadot-francophonie/construire-la-communaut%C3%A9-web3-une-visite-de-la-maison-polkadot-de-paris-%C3%A0-loc%C3%A9an-indien-bf296f8dd148)
+La gouvernance des nouveaux réseaux technique, cela reste du poids d'un jeton lié à une masse monétaire donc achetable. J'en alerte le fait [min 38 du replay](https://www.crowdcast.io/e/deux-heures-Polkadot) dans une présentation fait au [1er polkadot-francophonie meetup](https://medium.com/polkadot-francophonie/construire-la-communaut%C3%A9-web3-une-visite-de-la-maison-polkadot-de-paris-%C3%A0-loc%C3%A9an-indien-bf296f8dd148)
 
 C'est une alerte partagée également dans l'article de [Vitalik Buterin "Moving beyond coin voting governance"](https://vitalik.ca/general/2021/08/16/voting3.html) "Aller au delà de la gouvernance par vote de jeton".
 
-Ces reflexions dans l'article, nous amene à garder en mémoire pour la suite les éléments suivant: 
+Ces réflexions dans l'article, nous amene à garder en mémoire pour la suite les éléments suivant: 
 
 - "non-coin-driven governance" traduction "Gouvernance non assujettie à un jeton".
 - Proof of personhood system" traduction "Preuve d'être un individu" et non une identité !
@@ -62,30 +61,30 @@ Prenons maintenant le lieu du Village d'Art Préludien comme bac à sable pour i
 
 Une économie respectant les valeurs d'un lieu et une invitation à la création dans une gestion autonome et viable financièrement pour la préservation et évolution du lieu.
 
-Une économie retribuant également tous les intervenants et créateurs sur place.
+Une économie rétribuant également tous les intervenants et créateurs sur place.
 
-Des créateurs, sur le lieu même, le village d'art Préludien ici, créent, effectue ou projette des œuvres ( sculptures, spectacles, films etc .. ). Ces œuvres sont considérées comme la "preuve de Partcipation" mentionné ci-dessus. La preuve d'être un individu est faite par la nécessité de cree sur le lieu assurant également à "mettre sa peau en jeu" physiquement. Ceci va constituer une légitimité de gouvernance sur le lieu à la mesure de sa création et participation.
-Chaque œuvre crée est associée, identifiée à une représentation numérique consultable et vérifiable par tous.  ( NFT ).
+Des créateurs, sur le lieu même, le village d'art Préludien ici, créent, effectuent ou projettent des œuvres ( sculptures, spectacles, films etc .. ). Ces œuvres sont considérées comme la "preuve de Partcipation" mentionnée ci-dessus. La preuve d'être un individu est faite par la nécessité de créer sur le lieu assurant également à "mettre sa peau en jeu" physiquement. Ceci va constituer une légitimité de gouvernance sur le lieu à la mesure de sa création et participation.
+Chaque œuvre créée est associée, identifiée à une représentation numérique consultable et vérifiable par tous.  ( NFT ).
 Des ventes des oeuvres ou revenues des oeuvres, spectacles créées sont automatiquement associé à ces NFT permet une ventilation suivante:
-Un pourcentage est reversé dans une trésorie du lieu 
+Un pourcentage est reversé dans une trésorerie du lieu 
 la "gouvernance du lieu" décide de la part des fonds qui reviennent directement à l'artiste et l'autre part revient à la trésorerie du lieu.
 
-Les ventes succsives des oeuvres dans le temps continue d'abonder l'artste premier et la trésorerie  du lieu. Concept de vente et fil d'ariane de l'oeuvre déja introduite lors de cette [conférence](https://francoisbranciard.com/blog/blockchain-un-nouveau-terrain-de-jeu-pour-les-oeuvres) mais ici ce rajoute la notion de lieu à sauvgarder. 
+Les ventes successives des œuvres dans le temps continue d'abonder l'artiste premier et la trésorerie  du lieu. Concept de valeurs et fil d'ariane de l'oeuvre déja introduite lors de cette [conférence](https://francoisbranciard.com/blog/blockchain-un-nouveau-terrain-de-jeu-pour-les-oeuvres) mais ici ce rajoute la notion de lieu à sauvgarder. 
 
 La "gouvernance du lieu" est composée de tous les créateurs qui ont créé sur le lieu. Leur poids dans cette gouvernance dépend de leur implication constatée par la création d'œuvres ( NFT ). 
 
 Des systèmes de votes quadratiques pour les décisions sur le lieu peuvent être envisagées permettant d'exprimer l'intensité de ses préférences.
-Des systèmes de financement quadratiques des projets, [explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philantropique. Financement maximisant l'interet de la majorité en se callant automatiquement et venant abonder sur les petis dons des participants ou amis du lieu.
+Des systèmes de financement quadratiques des projets, [explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philanthropique. Financement maximisant l'intérêt de la majorité en se callant automatiquement et venant abonder sur les petits dons des participants ou amis du lieu.
 
 
-Le fond commun créé, tresorerie des flibustiers, est ensuite allouée selon ce que décide la gouvernance organique de ceux qui ont creer :
+Le fond commun créé, trésorerie des flibustiers, est ensuite allouée selon ce que décide la gouvernance organique de ceux qui ont creer :
 - Restauration du lieu
-- Financement de nouveaux projets arsitiques
-- évenements, concerts, spectacles
+- Financement de nouveaux projets artistiques
+- événements, concerts, spectacles
 - mini salaire de base ou un revenu universel pour tous les créateurs sur place etc ...
 
 
-Comme la création d’une oeuvre génère un droits sur le lieu, on peut imaginer qu'une nouvelle oeuvre doit être validée par l’assemblée la gouvernance actuelle à un instant T. Cette assemblée peut se faire periodiquement ( pensée assemblées antique à l'[amphithéâtre des Trois Gaules](https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_des_Trois_Gaules)). Apres cette assemblée, s'en suit une cérémonie (pensée ["Sanctuaire fédéral des Trois Gaules"](https://fr.wikipedia.org/wiki/Sanctuaire_f%C3%A9d%C3%A9ral_des_Trois_Gaules) apres l'assemble dans l'amphithéâtre), ou toutes les oeuvres devront être "batisées" (créations des NFT). Cérémonie chamanique, epicurienne, stoïcienne ou platonique etc ... au choix selon l'esprit du lieu : [GENIUS LOCI](https://fr.wikipedia.org/wiki/Genius_loci).
+Comme la création d’une oeuvre génère un droits sur le lieu, on peut imaginer qu'une nouvelle oeuvre doit être validée par l’assemblée la gouvernance actuelle à un instant T. Cette assemblée peut se faire périodiquement ( pensée assemblées antique à l'[amphithéâtre des Trois Gaules](https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_des_Trois_Gaules)). Après cette assemblée, s'en suit une cérémonie (pensée ["Sanctuaire fédéral des Trois Gaules"](https://fr.wikipedia.org/wiki/Sanctuaire_f%C3%A9d%C3%A9ral_des_Trois_Gaules) apres l'assemble dans l'amphithéâtre), ou toutes les oeuvres devront être "baptisées" (créations des NFT). Cérémonie chamanique, epicurienne, stoïcienne ou platonique etc ... au choix selon l'esprit du lieu : [GENIUS LOCI](https://fr.wikipedia.org/wiki/Genius_loci).
 
 ## Klèrôtèrion
 Bien sûr au centre du village, il y aura un Klèrôtèrion pour les votes faisant intervenir un sous groupe aléatoire choisi:
