@@ -20,7 +20,7 @@ Un Flibusiter était toléré par l'état. La voie du milieu entre Pirate, inter
 
 La village d'art Préludien est un pretexte de reflexion. Comme le dit Laurent Danchin, il y a beacoup de site d'art brut equivalent et il esperait que les futurs organisation en réseaux, réseau organique et non numérique, viennent solutionner cela via des fonds de dotation: 33 minutes de l'interview "Le besoin de création à l'origine de l'art et de l'entrepreneuriat" : https://youtu.be/TonwphxSwak?t=2026 ou encore "mettre en réseau des plus petites unités" 47 min à 48 min. Inspiration de Small Is Beautiful Ernst Friedrich Schumacher. Unto This Last John Ruskin.
 
-Si vous êtes sensible à cette interview de Laruent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat", continuons le fil en passant par un zoom sur les nouveaux résaux et leur balbutiement de gouvernance.
+Si vous êtes sensible à cette interview de Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat", continuons le fil en passant par un zoom sur les nouveaux résaux et leur balbutiement de gouvernance.
 
 
 ## DeGov
