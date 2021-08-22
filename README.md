@@ -56,8 +56,8 @@ Ces reflexions dans l'article, nous amene à garder en mémoire pour la suite le
 
 ## Economie préludienne et gouvernance organique
 
-Prenons le lieu du Village d'Art Préludien comme bac à sable pour imaginer une économie respectant les valeurs d'un lieu et une invitation à la création dans une gestion autonome et viable financièrement pour la préservation et évolution du lieu et de ses intervenants et créateurs sur place.
-L'idée tient en une phrase :
+Prenons Maintenant le lieu du Village d'Art Préludien comme bac à sable pour imaginer un nouveau prélude d'une économie.
+Une économie respectant les valeurs d'un lieu et une invitation à la création dans une gestion autonome et viable financièrement pour la préservation et évolution du lieu. Une économie retribuant également tous les intervenants et créateurs sur place.
 Des créateurs, sur le lieu même, le village d'art Préludien ici, créent des œuvres ( sculptures, spectacles, films etc .. ). Ces œuvres sont considérées comme la "preuve de Partcipation" mentionné ci-dessus. La preuve d'être individu est faite par la nécessité de cree sur le lieu assurant également à "mettre sa peau en jeu" physiquement sur le lieu. Ceci va constituer une légitimité de gouvernance sur le lieu à la mesure de sa création.
 Chaque œuvre carré est associé, identifié à une représentation numérique consultable et vérifiable par tous.  ( NFT pour les initiés).
 Les ventes des oeuvres ou revenues des oeuvres créées, automatiquement associé à ces NFT permet une ventilation suivante: 
