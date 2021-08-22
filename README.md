@@ -9,31 +9,29 @@ Le village d'Art Préludien est un lieu au coeur d'une foret ou à vécu et cré
 
 Qui est CHOMO ? 
 
-Voici un reportge de Antoine De Maximy - Rencontre Avec Chomo https://www.youtube.com/watch?v=ksZHabIC5js
+Voici un [reportge de Antoine De Maximy - Rencontre Avec Chomo](https://www.youtube.com/watch?v=ksZHabIC5js)
 
-Apres la mort de Chomo, dont le crédo était :"l'art n'est pas fait pour être vendu", des amis dont Laurent Danchin se sont mobilisés pour sauver le lieu et toute l'oeuvre de Chomo qui tombait en décrépitude dans la foret. 
-Paradoxalement, il a fallut une vente aux enchere pour permettre cette sauvegarde:
+Apres la mort de Chomo, dont le crédo était :"l'art n'est pas fait pour être vendu", des amis dont [Laurent Danchin](https://fr.wikipedia.org/wiki/Laurent_Danchin) se sont mobilisés pour sauver le lieu et toute l'oeuvre de Chomo qui tombait en décrépitude dans la foret. 
+Paradoxalement, il a fallut une vente aux encheres pour permettre cette sauvegarde: reportage ["CHOMO À VENDRE ?" https://www.youtube.com/watch?v=4nGTL5TVLMo
 
-"CHOMO À VENDRE ?" https://www.youtube.com/watch?v=4nGTL5TVLMo
+Des éléves d'école et des amis se mobilisent encore pour sauver le patrimoine sur place : [Chantiers ! Chomo](https://www.youtube.com/watch?v=WRH941lT8HQ)
 
-Chaque été des éléves des amis et eleves d'école d'art se mobilise pour sauver le patrimoine sur place : https://www.youtube.com/watch?v=WRH941lT8HQ
+Quel aurais pu être une éonomonie préludienne de ce village Préludien qui aurait permis une création en toute liberté et une continuité de création sur ce lieu ?
 
-Quel aurais pu être une éonomonie préludienne qui aurait permis une création en toute liberté et une continuité de création sur ce lieu ?
+Une ZAC, une Zone à Creer. ZAC, c'est une ZAD avec une vision ?
 
-Une ZAC, une Zone à Creer. C'est une ZAD avec une vision ?
+Ou une [TAZ](https://fr.wikipedia.org/wiki/Zone_autonome_temporaire) flibustière à la Hakim Bey, TAZ « Zone autonome temporaire » "Temporary Autonomous Zone en anglais". D'ailleurs "Tout est provisioire" disait Chomo dans le reportage de Antoine De Maximy.
 
-Une [TAZ](https://fr.wikipedia.org/wiki/Zone_autonome_temporaire) flibustière à la Hakim Bey, TAZ « Zone autonome temporaire » "Temporary Autonomous Zone en anglais". D'ailleurs "Tout est provisioire" disait Chomo.
+Zone flibustière. Car les flibusiters étaient tolérés par l'état. La voie du milieu entre Pirate, interdit par l'état et Le Corsaire, mandaté par l'état ?
 
-Flibustière , car les flibusiters étaient tolérés par l'état. La voie du milieu entre Pirate, interdit par l'état et Le Corsaire, mandaté par l'état ?
-
-La village d'art Préludien est un pretexte de reflexion. 
-Comme le dit Laurent Danchin, il y a beacoup de site d'art brut equivalent et il esperait que les futurs organisation en réseaux, réseau organique et non numérique, viennent solutionner cela via des fonds de dotation: 33 minutes de l'interview "Le besoin de création à l'origine de l'art et de l'entrepreneuriat" : https://youtu.be/TonwphxSwak?t=2026 ou encore "mettre en réseau des plus petites unités" 47 min à 48 min. La lignée des inspirations et références mentionné dans l'interview sont :
+La village d'Art Préludien est un pretexte de reflexion. 
+Comme le dit Laurent Danchin, il y a beacoup de site d'art brut equivalent et il esperait que les futurs organisation en réseaux, réseau organique et non numérique, viennent solutionner cela [via des fonds de dotation: 33 minutes de l'interview](https://youtu.be/TonwphxSwak?t=2026) "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"  ou encore plus loin "mettre en réseau des plus petites unités" 47 min à 48 min. La lignée des inspirations et références mentionné dans l'interview sont :
 - Small Is Beautiful Ernst Friedrich Schumacher.
 - Unto This Last John Ruskin.
 
-Si vous êtes sensible à cette interview de Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat" dont je vous invite à regarder en entier, continuons le fil en passant par un détour sur les nouveaux résaux et leur balbutiement de gouvernance.
+Si vous êtes sensible à cette interview de [Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"](https://youtu.be/TonwphxSwak) dont je vous invite à regarder en entier, continuons le fil en passant par un détour sur les nouveaux résaux et leur balbutiement de gouvernance.
 
-https://youtu.be/TonwphxSwak
+
 
 
 ## DeGov, DeGen ?
