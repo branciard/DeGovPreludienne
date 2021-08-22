@@ -64,7 +64,7 @@ Le fond commun cree est ensuite alouée selon ce que decide la gouvernance organ
 - salaire de base ou un revenues universelle pour tous les créateurs sur place etc ...
 
 
-Comme la création d'un oeuvre génere un droits sur le lieu, on peut imaginer que 1 nouvelle oeuve doit etre validée par l’assemblée la gouvernance actuelle à un instant T, en mode réunion à "amphithéâtre des Trois Gaules", avant d’être batiser en 1 NFT lors d'une cérémonie au ["Sanctuaire fédéral des Trois Gaules"](https://fr.wikipedia.org/wiki/Sanctuaire_f%C3%A9d%C3%A9ral_des_Trois_Gaules). Cérémonie chamanique, epicurienne, stoicienne ou colloque érudit au choix selon l'esprit du lieu : [GENIUS LOCI](https://fr.wikipedia.org/wiki/Genius_loci).
+Comme la création d'un oeuvre génere un droits sur le lieu, on peut imaginer que 1 nouvelle oeuve doit etre validée par l’assemblée la gouvernance actuelle à un instant T, en mode réunion à [amphithéâtre des Trois Gaules](https://fr.wikipedia.org/wiki/Amphith%C3%A9%C3%A2tre_des_Trois_Gaules), avant d’être batiser en 1 NFT lors d'une cérémonie au ["Sanctuaire fédéral des Trois Gaules"](https://fr.wikipedia.org/wiki/Sanctuaire_f%C3%A9d%C3%A9ral_des_Trois_Gaules). Cérémonie chamanique, epicurienne, stoicienne ou colloque érudit au choix selon l'esprit du lieu : [GENIUS LOCI](https://fr.wikipedia.org/wiki/Genius_loci).
 
 Bien sur au centre du village, il y aura un Klèrôtèrion pour les votes faisant intervenir un sous groupe alétoire choisi:
 
