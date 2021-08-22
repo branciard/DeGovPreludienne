@@ -70,7 +70,8 @@ la "gouvernance du lieu" décide de la part des fonds qui reviennent directement
 
 La "gouvernance du lieu" est composée de tous les créateurs qui ont créé sur le lieu. Leur poids dans cette gouvernance dépend de leur implication constatée par la création d'œuvres ( NFT ). 
 
-Des systèmes de votes quadratiques finacement quadratique pour les décisions sur le lieu peuvent être envisagées.
+Des systèmes de votes quadratiques pour les décisions sur le lieu peuvent être envisagées permettant d'exprimer l'intensité de ses préférences.
+Des systèmes de financement quadratiques des projets, explication du principe](https://www.youtube.com/watch?v=HJljTtLnymE) permettant une allocation de fonds public ou philantropique. Financement maximisant l'interet de la majorité en se callant automatiquement et venant abonder sur les petis dons des participants ou amis du lieu.
 
 
 Le fond commun créé est ensuite allouée selon ce que décide la gouvernance organique :
