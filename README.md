@@ -78,7 +78,8 @@ Des systèmes de financement quadratiques des projets, explication du principe](
 
 Le fond commun créé, tresorerie des flibustiers, est ensuite allouée selon ce que décide la gouvernance organique de ceux qui ont creer :
 - Restauration du lieu
-- financement de nouveaux projets
+- Financement de nouveaux projets arsitiques
+- évenements, concerts, spectacles
 - mini salaire de base ou un revenu universel pour tous les créateurs sur place etc ...
 
 
