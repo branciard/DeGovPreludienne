@@ -30,7 +30,7 @@ Comme le dit Laurent Danchin, il y a beacoup de site d'art brut equivalent et il
 - [Small Is Beautiful, Ernst Friedrich Schumacher](https://fr.wikipedia.org/wiki/Small_is_beautiful)
 - [Unto This Last, John Ruskin](https://fr.wikipedia.org/wiki/Unto_This_Last)
 
-Si vous êtes sensible à cette interview de [Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"](https://youtu.be/TonwphxSwak) dont je vous invite à regarder en entier, continuons le fil en passant par un détour sur les nouveaux résaux et leur balbutiement de gouvernance.
+Si vous êtes sensible à cette interview de [Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"](https://youtu.be/TonwphxSwak) dont je vous invite à regarder en entier, continuons le fil en passant par un détour sur les nouveaux résaux et leur balbutiement de gouvernance. Sinon passé votre chemin.
 
 
 
