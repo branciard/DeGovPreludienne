@@ -34,19 +34,29 @@ Voici quelques références livresques mentionnés dans l'interview :
 
 Si vous êtes sensible à cette interview de [Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"](https://youtu.be/TonwphxSwak) dont je vous invite à regarder en entier, continuons le fil en passant par un détour sur les nouveaux réseaux et leur balbutiement de gouvernance. Sinon passez votre chemin.
 
-
-
-
 ## DeGov, DeGen ?
+
+Les nouveaux reseaux décentralisés sont en effervescence sur la notion de gouvernance. Comment prendre une décision sur un réseau décentralisée par nature. 
 
 DeGov : Decentralized Governance traduisible Gouvernance décentralisée.
 
 DeGen est une locution utilisée dans la mouvance Defi ( Decentralized finance, Finance décentralisée ) pour souligner le caractère expérimental voire dantesque de ce qui arrive. DeGen pour Degenerate, dégénéré.
 
-Comme alerté sur la gouvernance des nouveaux réseaux technique dans ma présentation ici : https://medium.com/polkadot-francophonie/construire-la-communaut%C3%A9-web3-une-visite-de-la-maison-polkadot-de-paris-%C3%A0-loc%C3%A9an-indien-bf296f8dd148, cela reste du poids lié à une masse monaitaire donc achetable.
-C'est une alerte partagé par dans son article "Moving beyond coin voting governance" "Aller au delà de la gouvernance par vote de jeton"  https://vitalik.ca/general/2021/08/16/voting3.html
-Gardons en mémoire les éléments : "Solution 2: non-coin-driven governance" Proof of personhood system" "Proof of participation" et Skin-in-the-game. 
-Traduisible, ( il faut aussi se décoloniser du langage anglais pour penser) par "Gouvernance non assujettie à un jeton", "Preuve d'être un individu" et non une identité !, "Preuve de participation" , "mettre sa peau en jeu".
+Comme alerté sur la gouvernance des nouveaux réseaux technique cela reste du poids lié à une masse monaitaire donc achetable. Dans ma présentation ici : https://medium.com/polkadot-francophonie/construire-la-communaut%C3%A9-web3-une-visite-de-la-maison-polkadot-de-paris-%C3%A0-loc%C3%A9an-indien-bf296f8dd148, 
+
+C'est une alerte partagée également dans l'article de Vitalik Buterin "Moving beyond coin voting governance" "Aller au delà de la gouvernance par vote de jeton"  https://vitalik.ca/general/2021/08/16/voting3.html
+
+Ces reflexions dans l'article, nous amene à garder en mémoire les éléments suivant: 
+
+- "non-coin-driven governance" 
+- Proof of personhood system"
+- "Proof of participation"
+- Skin-in-the-game. 
+Traduisible, par:
+-"Gouvernance non assujettie à un jeton"
+-"Preuve d'être un individu" et non une identité !
+-"Preuve de participation"
+-"mettre sa peau en jeu".
 
 ## Economie préludienne et gouvernance organique
 
