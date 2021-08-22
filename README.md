@@ -36,7 +36,7 @@ Si vous êtes sensible à cette interview de [Laurent Danchin "Le besoin de cré
 
 ## DeGov, DeGen ?
 
-Les nouveaux reseaux décentralisés sont en effervescence sur la notion de gouvernance. Comment prendre une décision sur un réseau décentralisée par nature. 
+Les nouveaux reseaux décentralisés sont en effervescence sur la notion de gouvernance. Comment prendre une décision sur un réseau décentralisé par nature ?
 
 DeGov : Decentralized Governance traduisible Gouvernance décentralisée.
 
@@ -46,7 +46,7 @@ Comme alerté sur la gouvernance des nouveaux réseaux technique cela reste du p
 
 C'est une alerte partagée également dans l'article de Vitalik Buterin "Moving beyond coin voting governance" "Aller au delà de la gouvernance par vote de jeton"  https://vitalik.ca/general/2021/08/16/voting3.html
 
-Ces reflexions dans l'article, nous amene à garder en mémoire les éléments suivant: 
+Ces reflexions dans l'article, nous amene à garder en mémoire pour la suite les éléments suivant: 
 
 - "non-coin-driven governance" traduction "Gouvernance non assujettie à un jeton".
 - Proof of personhood system" traduction "Preuve d'être un individu" et non une identité !
