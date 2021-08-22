@@ -11,7 +11,7 @@ Qui est CHOMO ?
 
 Voici un reportge de Antoine De Maximy - Rencontre Avec Chomo https://www.youtube.com/watch?v=ksZHabIC5js
 
-Apres la mort de Chomo, dont le crédo était :"l'art n'est pas fait pour être vendu", des amis dont Laurent Danchin se sont mobilisés pour sauver le lieu et toute l'oeuvre de Chomo qui tombait en désuétude dans la foret. 
+Apres la mort de Chomo, dont le crédo était :"l'art n'est pas fait pour être vendu", des amis dont Laurent Danchin se sont mobilisés pour sauver le lieu et toute l'oeuvre de Chomo qui tombait en décrépitude dans la foret. 
 Paradoxalement, il a fallut une vente aux enchere pour permettre cette sauvegarde:
 
 "CHOMO À VENDRE ?" https://www.youtube.com/watch?v=4nGTL5TVLMo
