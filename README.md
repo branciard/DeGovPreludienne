@@ -90,9 +90,7 @@ Comme la création d’une oeuvre génère un droits sur le lieu, on peut imagin
 ## Klèrôtèrion
 Bien sûr au centre du village, il y aura un Klèrôtèrion pour les votes faisant intervenir un sous groupe aléatoire choisi:
 
-https://www.youtube.com/watch?v=bWV8MZ7N90o
-
-https://lejournal.cnrs.fr/videos/la-machine-qui-tirait-au-sort-les-citoyens-dathenes
+[Le Klèrôtèrion, machine emblématique de la démocratie](https://www.youtube.com/watch?v=bWV8MZ7N90o)
 
 Les "pinakia" des citoyens du lieu  en wallet clef public/privée, utile dans un Klèrôtèrion mi-numérique, mi-physique, seront à imaginer...
 
