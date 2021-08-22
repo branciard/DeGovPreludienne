@@ -68,6 +68,8 @@ Des ventes des oeuvres ou revenues des oeuvres, spectacles créées sont automat
 Un pourcentage est reversé dans une trésorie du lieu 
 la "gouvernance du lieu" décide de la part des fonds qui reviennent directement à l'artiste et l'autre part revient à la trésorerie du lieu.
 
+Les ventes succsives des oeuvres dans le temps continue d'abonder l'artste premier et la trésorerie  du lieu. Concept de vente et fil d'ariane de l'oeuvre déja introduite lors de cette [conférence](https://francoisbranciard.com/blog/blockchain-un-nouveau-terrain-de-jeu-pour-les-oeuvres) mais ici ce rajoute la notion de lieu à sauvgarder. 
+
 La "gouvernance du lieu" est composée de tous les créateurs qui ont créé sur le lieu. Leur poids dans cette gouvernance dépend de leur implication constatée par la création d'œuvres ( NFT ). 
 
 Des systèmes de votes quadratiques pour les décisions sur le lieu peuvent être envisagées permettant d'exprimer l'intensité de ses préférences.
