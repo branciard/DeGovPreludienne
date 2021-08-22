@@ -16,7 +16,7 @@ Quel aurais pu être une éonomonie préludienne qui aurait permis une création
 Une ZAC, une Zone à Creer. C'est une ZAD avec une vision ?
 Une TAZ flibustière à la Hakim Bey, TAZ « Zone autonome temporaire » "Temporary Autonomous Zone en anglais". "Tout est provisioire" disait Chomo.
 
-Un Flubusiter était toléré par l'état. La voie du milieu entre Pirate, interdit par l'état et Le Corsaire, mandaté par l'état ?
+Un Flibusiter était toléré par l'état. La voie du milieu entre Pirate, interdit par l'état et Le Corsaire, mandaté par l'état ?
 
 La village d'art Préludien est un pretexte de reflexion. Comme le dit Laurent Danchin, il y a beacoup de site d'art brut equivalent et il esperait que les futurs organisation en réseaux, réseau organique et non numérique, viennent solutionner cela via des fonds de dotation: 33 minutes de l'interview "Le besoin de création à l'origine de l'art et de l'entrepreneuriat" : https://youtu.be/TonwphxSwak?t=2026 ou encore "mettre en réseau des plus petites unités" 47 min à 48 min. Inspiration de Small Is Beautiful Ernst Friedrich Schumacher. Unto This Last John Ruskin.
 
