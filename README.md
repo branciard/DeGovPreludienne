@@ -32,7 +32,11 @@ Si vous êtes sensible à cette interview de Laurent Danchin "Le besoin de créa
 https://youtu.be/TonwphxSwak
 
 
-## DeGov : Decentralize Governance, Gouvernance décentralisée.
+## DeGov, DeGen ?
+
+DeGov : Decentralize Governance traduisible Gouvernance décentralisée.
+
+DeGen est une allocution utilisé dans la mouvance Defi ( Decentrlize finance, Finance décentralisée ) pour souligné le caractere experimental voir dantesque de ce qui arrive. DeGen pour Degenerate, dégénéré.
 
 Comme alerté sur la gouvernance des nouveaux réseaux technique dans ma présentation ici : https://medium.com/polkadot-francophonie/construire-la-communaut%C3%A9-web3-une-visite-de-la-maison-polkadot-de-paris-%C3%A0-loc%C3%A9an-indien-bf296f8dd148, cela reste du poids lié à une masse monaitaire donc achetable.
 C'est une alerte partagé par dans son article "Moving beyond coin voting governance" "Aller au delas de la gouvernance par vote de jeton"  https://vitalik.ca/general/2021/08/16/voting3.html
