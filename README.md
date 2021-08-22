@@ -44,7 +44,7 @@ DeGen est une locution utilisée dans la mouvance Defi ( Decentralized finance, 
 
 La gouvernance des nouveaux réseaux technique cela reste du poids d'un jeton lié à une masse monaitaire donc achetable. J'en alerte le fait [min 38 du replay](https://www.crowdcast.io/e/deux-heures-Polkadot) dans une présentation fait au [1er polkadot-francophonie meetup](https://medium.com/polkadot-francophonie/construire-la-communaut%C3%A9-web3-une-visite-de-la-maison-polkadot-de-paris-%C3%A0-loc%C3%A9an-indien-bf296f8dd148)
 
-C'est une alerte partagée également dans l'article de Vitalik Buterin "Moving beyond coin voting governance" "Aller au delà de la gouvernance par vote de jeton"  https://vitalik.ca/general/2021/08/16/voting3.html
+C'est une alerte partagée également dans l'article de [Vitalik Buterin "Moving beyond coin voting governance"](https://vitalik.ca/general/2021/08/16/voting3.html) "Aller au delà de la gouvernance par vote de jeton".
 
 Ces reflexions dans l'article, nous amene à garder en mémoire pour la suite les éléments suivant: 
 
