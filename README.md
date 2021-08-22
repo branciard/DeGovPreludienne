@@ -16,7 +16,7 @@ Paradoxalement, il a fallut une vente aux encheres pour permettre cette sauvegar
 
 Des éléves d'école d'art et des amis se mobilisent encore pour sauver le patrimoine sur place : [Chantiers ! Chomo](https://www.youtube.com/watch?v=WRH941lT8HQ)
 
-Quel aurais pu être une éonomonie préludienne de ce village Préludien qui aurait permis une création en toute liberté et une continuité de création sur ce lieu ?
+Quel aurais pu être une éonomonie préludienne de ce village Préludien qui aurait permis une création en toute liberté et entretien et une continuité de création sur ce lieu ?
 
 Une ZAC, une Zone à Creer. ZAC, c'est une ZAD avec une vision ?
 
