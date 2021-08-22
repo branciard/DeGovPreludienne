@@ -17,7 +17,7 @@ Paradoxalement, il a fallu une vente aux enchères pour permettre cette sauvegar
 
 Des élèves d'école d'art et des amis se mobilisent encore pour sauver le patrimoine sur place : [Chantiers ! Chomo](https://www.youtube.com/watch?v=WRH941lT8HQ)
 
-Quel aurait pu être une économie préludienne de ce village Préludien qui aurait permis une création en toute liberté et entretien et une continuité de création sur ce lieu ?
+Quel aurait pu être une économie préludienne de ce village Préludien qui aurait permis une nouvlle vie, entretien et une continuité de création sur ce lieu ?
 
 Une ZAC, une Zone à Créer. ZAC, c'est une ZAD avec une vision ?
 
@@ -26,7 +26,8 @@ Ou une [TAZ](https://fr.wikipedia.org/wiki/Zone_autonome_temporaire) flibustièr
 Zone flibustière. Car les flibustiers étaient tolérés par l'État. La voie du milieu entre Pirate, interdit par l'État et Le Corsaire, mandaté par l'État ?
 
 La village d'Art Préludien est un prétexte de réflexion. 
-Comme le dit Laurent Danchin, il y a beaucoup de site d'art brut équivalent et il espérait que les futurs organisation en réseaux, réseau organique et non numérique, viennent solutionner cela [via des fonds de dotation: 33 minutes de l'interview](https://youtu.be/TonwphxSwak?t=2026) "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"  ou encore plus loin "mettre en réseau des plus petites unités" 47 min à 48 min. La lignée des inspirations et références mentionné dans l'interview sont :
+Comme le dit Laurent Danchin, il y a beaucoup de site d'art brut équivalent et il espérait que les futurs organisation en réseaux, réseau organique et non numérique, viennent solutionner cela [via des fonds de dotation: 33e minutes](https://youtu.be/TonwphxSwak?t=2026) "Le besoin de création à l'origine de l'art et de l'entrepreneuriat"  ou encore plus loin ["mettre en réseau des plus petites unités" 47 min à 48 min](https://youtu.be/TonwphxSwak?t=2822).
+Voici quelques références livresques mentionnés dans l'interview :
 - [Lettres à un jeune poète, Rainer Maria Rilke](https://fr.wikipedia.org/wiki/Lettres_%C3%A0_un_jeune_po%C3%A8te)
 - [Small Is Beautiful, Ernst Friedrich Schumacher](https://fr.wikipedia.org/wiki/Small_is_beautiful)
 - [Unto This Last, John Ruskin](https://fr.wikipedia.org/wiki/Unto_This_Last)
