@@ -48,15 +48,11 @@ C'est une alerte partagée également dans l'article de Vitalik Buterin "Moving 
 
 Ces reflexions dans l'article, nous amene à garder en mémoire les éléments suivant: 
 
-- "non-coin-driven governance" 
-- Proof of personhood system"
-- "Proof of participation"
-- Skin-in-the-game. 
-Traduisible, par:
--"Gouvernance non assujettie à un jeton"
--"Preuve d'être un individu" et non une identité !
--"Preuve de participation"
--"mettre sa peau en jeu".
+- "non-coin-driven governance" traduction "Gouvernance non assujettie à un jeton".
+- Proof of personhood system" traduction "Preuve d'être un individu" et non une identité !
+- "Proof of participation"traduction "Preuve de participation".
+- "Skin-in-the-game" traduction "mettre sa peau en jeu".
+
 
 ## Economie préludienne et gouvernance organique
 
