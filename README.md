@@ -22,7 +22,7 @@ Quel aurais pu être une éonomonie préludienne qui aurait permis une création
 
 Une ZAC, une Zone à Creer. C'est une ZAD avec une vision ?
 
-Une TAZ flibustière à la Hakim Bey, TAZ « Zone autonome temporaire » "Temporary Autonomous Zone en anglais". D'ailleurs "Tout est provisioire" disait Chomo.
+Une [TAZ](https://fr.wikipedia.org/wiki/Zone_autonome_temporaire) flibustière à la Hakim Bey, TAZ « Zone autonome temporaire » "Temporary Autonomous Zone en anglais". D'ailleurs "Tout est provisioire" disait Chomo.
 
 Flibustière , car les flibusiters était toléré par l'état. La voie du milieu entre Pirate, interdit par l'état et Le Corsaire, mandaté par l'état ?
 
