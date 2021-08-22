@@ -29,7 +29,7 @@ Comme le dit Laurent Danchin, il y a beacoup de site d'art brut equivalent et il
 - Small Is Beautiful Ernst Friedrich Schumacher.
 - Unto This Last John Ruskin.
 
-Si vous êtes sensible à cette interview de Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat", continuons le fil en passant par un zoom sur les nouveaux résaux et leur balbutiement de gouvernance.
+Si vous êtes sensible à cette interview de Laurent Danchin "Le besoin de création à l'origine de l'art et de l'entrepreneuriat" dont je vous invite à regarder en entier, continuons le fil en passant par un zoom sur les nouveaux résaux et leur balbutiement de gouvernance.
 
 https://youtu.be/TonwphxSwak
 
