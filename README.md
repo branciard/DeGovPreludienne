@@ -56,6 +56,8 @@ Ces reflexions dans l'article, nous amene à garder en mémoire pour la suite le
 
 ## Economie préludienne et gouvernance organique
 
+Economie désigne étymologiquement: l'administration de la maison, du logis.
+
 Prenons maintenant le lieu du Village d'Art Préludien comme bac à sable pour imaginer un nouveau prélude d'une économie.
 
 Une économie respectant les valeurs d'un lieu et une invitation à la création dans une gestion autonome et viable financièrement pour la préservation et évolution du lieu.
