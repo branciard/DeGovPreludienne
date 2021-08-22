@@ -16,6 +16,8 @@ Paradoxalement, il a fallut une vente aux enchere pour permettre cette sauvegard
 
 "CHOMO À VENDRE ?" https://www.youtube.com/watch?v=4nGTL5TVLMo
 
+Chaque été des éléves des amis et eleves d'école d'art se mobilise pour sauver le patrimoine sur place : https://www.youtube.com/watch?v=WRH941lT8HQ
+
 Quel aurais pu être une éonomonie préludienne qui aurait permis une création en toute liberté et une continuité de création sur ce lieu ?
 
 Une ZAC, une Zone à Creer. C'est une ZAD avec une vision ?
